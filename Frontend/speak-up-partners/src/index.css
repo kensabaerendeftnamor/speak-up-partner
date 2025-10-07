@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom style tambahan */
+body {
+  @apply bg-supNavy text-white;
+}
